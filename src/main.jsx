@@ -6,6 +6,8 @@ import App from './App';
 import { ThemeProvider } from './components/ThemeContext';
 import Background from './components/Background';
 import Toggle from './components/ThemeToggle';
+import 'flowbite';
+
 
 
 ReactDOM.render(
